@@ -27,7 +27,7 @@ Mixtral 8X7B is a sparse mixture of experts model. As such, it leverages up to 4
 | Name               | Number of parameters | Number of active parameters | Min. GPU RAM for inference (GB) |
 |--------------------|:--------------------:|:---------------------------:|:-------------------------------:|
 | Mistral-7B-v0.2    | 7.3B                 | 7.3B                        | 16                              |
-| Mistral-8X7B-v0.1  | 46.7B                  | 12.9B                         | 100                             |
+| Mixtral-8X7B-v0.1  | 46.7B                  | 12.9B                         | 100                             |
 
 ## Chat template
 
